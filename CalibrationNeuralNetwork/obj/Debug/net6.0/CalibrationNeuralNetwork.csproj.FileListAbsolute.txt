@@ -1,0 +1,15 @@
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\bin\Debug\net6.0\CalibrationNeuralNetwork.exe
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\bin\Debug\net6.0\CalibrationNeuralNetwork.deps.json
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\bin\Debug\net6.0\CalibrationNeuralNetwork.runtimeconfig.json
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\bin\Debug\net6.0\CalibrationNeuralNetwork.dll
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\bin\Debug\net6.0\CalibrationNeuralNetwork.pdb
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.AssemblyInfo.cs
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.dll
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\refint\CalibrationNeuralNetwork.dll
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.pdb
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\CalibrationNeuralNetwork.genruntimeconfig.cache
+C:\Users\athai\source\repos\CalibrationNeuralNetwork\obj\Debug\net6.0\ref\CalibrationNeuralNetwork.dll

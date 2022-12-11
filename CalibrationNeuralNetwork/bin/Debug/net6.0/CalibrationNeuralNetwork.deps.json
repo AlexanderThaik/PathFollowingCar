@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalibrationNeuralNetwork/1.0.0": {
+        "runtime": {
+          "CalibrationNeuralNetwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalibrationNeuralNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.csproj.AssemblyReference.cache
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.AssemblyInfoInputs.cache
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.AssemblyInfo.cs
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\athai\source\repos\CarSimulator\bin\Debug\net6.0\CarSimulator.exe
+C:\Users\athai\source\repos\CarSimulator\bin\Debug\net6.0\CarSimulator.deps.json
+C:\Users\athai\source\repos\CarSimulator\bin\Debug\net6.0\CarSimulator.runtimeconfig.json
+C:\Users\athai\source\repos\CarSimulator\bin\Debug\net6.0\CarSimulator.dll
+C:\Users\athai\source\repos\CarSimulator\bin\Debug\net6.0\CarSimulator.pdb
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.dll
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\refint\CarSimulator.dll
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.pdb
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\CarSimulator.genruntimeconfig.cache
+C:\Users\athai\source\repos\CarSimulator\obj\Debug\net6.0\ref\CarSimulator.dll
